@@ -8,7 +8,7 @@ def calc_fib(n):
 n = int(input())
 print(calc_fib(n))
 
-# Refined
+# Revised
 def calc_fib(n):
     if (n <= 1):
         return n

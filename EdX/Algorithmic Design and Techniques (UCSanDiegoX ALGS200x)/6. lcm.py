@@ -14,7 +14,7 @@ if __name__ == '__main__':
     print(lcm_naive(a, b))
 
 
-# Python3
+# Revised
 import sys
 
 def gcd(a, b):

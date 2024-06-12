@@ -17,7 +17,7 @@ if __name__ == "__main__":
     
     
 
-# Uses python3
+# Revised
 import sys
 
 def gcd_euclidean(a, b):
